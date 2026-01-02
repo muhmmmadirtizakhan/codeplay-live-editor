@@ -1,4 +1,4 @@
-# CODEPLAY – Live Code Editor
+#▶️ CODEPLAY – Live Code Editor
 
 **CODEPLAY** is a lightweight **live HTML, CSS, and JavaScript code editor** inspired by the workflow and layout of **VS Code**.  
 It allows developers to write code and see the output instantly in the browser.
